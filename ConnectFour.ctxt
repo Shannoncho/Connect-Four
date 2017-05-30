@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=connectGrid
+comment1.target=void\ playGame(char[][])
+comment2.params=connectGrid\ columnPosition\ chipColor
+comment2.target=boolean\ gameStatus(char[][],\ int,\ char)
+comment3.params=connectGrid\ columnPosition\ chipColor\ rowPosition
+comment3.target=boolean\ checkColumn(char[][],\ int,\ char,\ int)
+comment4.params=connectGrid\ columnPosition\ chipColor\ rowPosition
+comment4.target=boolean\ checkRow(char[][],\ int,\ char,\ int)
+comment5.params=connectGrid\ columnPosition\ chipColor
+comment5.target=boolean\ dropChip(char[][],\ int,\ char)
+comment6.params=connectGrid
+comment6.target=void\ showGrid(char[][])
+numComments=7
